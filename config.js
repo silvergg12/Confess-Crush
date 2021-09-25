@@ -1,15 +1,10 @@
 const CONFIG = {
     titleWeb: "Sinh nhật thứ 17 của em",
     introTitle: 'Khánh Đoan Công Túa',
-    introDesc: `muốn em là của riêng mình
-    một lần gục ngã trong vòng tay duyên tình
-    muốn em là của riêng mình
-    để đời thêm xinh`,
+    introDesc: `muốn em là của riêng mình một lần gục ngã trong vòng tay duyên tình muốn em là của riêng mình để đời thêm xinh`,
     btnIntro: '^^HiHi^^',
-    title: 'Thấy như vẫn còn em mỗi khi thức dậy
-    Nói với anh rằng chở em qua chốn này',
-    desc: 'Buổi sáng hay là đêm mặc những áng mây cứ chạy
-    Đem lời trong phút giây anh chỉ muốn như vậy ',
+    title: 'Thấy như vẫn còn em mỗi khi thức dậy Nói với anh rằng chở em qua chốn này',
+    desc: 'Buổi sáng hay là đêm mặc những áng mây cứ chạy Đem lời trong phút giây anh chỉ muốn như vậy ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Em có yêu anh hong',
